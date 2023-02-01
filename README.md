@@ -1,4 +1,4 @@
-![Enron](enron_logo.jpg)
+![Enron](Enron_logo.jpg)
 
 
 # The Enron Scandal - A Fraud Detection Project Using Text Data
