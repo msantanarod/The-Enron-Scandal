@@ -5,7 +5,7 @@
 
 This is the second fraud detection project I am working on, and this time, I will analyze text data in form of emails.
 
-The goals of this project is to create a list of fraudulent terms that helps us to detect fraudulent and non-fraudulent behaviours in the emails. I will use 2 different methods: the manual one and the natural language processing approach.
+The goals of this project is to create a list of fraudulent terms that helps us to detect fraudulent and non-fraudulent behaviors in the emails. I will use 2 different methods: the manual one and the natural language processing approach.
 
 📈 **Data**: I will use the dataset [The Enron Email](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) from Kaggle.
 
