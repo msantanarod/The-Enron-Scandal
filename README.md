@@ -3,9 +3,9 @@
 
 # The Enron Scandal - A Fraud Detection Project Using Text Data
 
-This is the second fraud detection project I am working on, and this time, I will analyze text data in form of emails.
+This is the second fraud detection project I am working on, and this time, I will analyze text data from emails.
 
-The goals of this project is to create a list of fraudulent terms that helps us to detect fraudulent and non-fraudulent behaviors in the emails. I will use 2 different methods: the manual one and the natural language processing approach.
+The goal of this project is to create a list of fraudulent terms that helps us to detect fraudulent and non-fraudulent behaviors in the emails. I will use 2 different methods: manual one and the natural language processing (NLP).
 
 📈 **Data**: I will use the dataset [The Enron Email](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) from Kaggle.
 
