@@ -7,7 +7,7 @@ This is the second fraud detection project I am working on, and this time, I wil
 
 The goal of this project is to create a list of fraudulent terms that helps us to detect fraudulent and non-fraudulent behaviors in the emails. I will use 2 different methods: manual one and the natural language processing (NLP).
 
-📈 **Data**: I will use the dataset [The Enron Email](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) from Kaggle.
+📈 **Data**: For this project I downloaded an edited version of the dataset [The Enron Email](https://www.kaggle.com/code/oalvay/enron-emails-complete-preprocessing/notebook) from Kaggle.
 
 The Enron case is one of the biggest corporate bankruptcy in U.S. history(for more info: [The Enron Scandal](https://en.wikipedia.org/wiki/Enron_scandal).
 
